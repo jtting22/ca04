@@ -36,7 +36,7 @@ JTTING_CA04.ipynb - Main code to run the program.
 
 README.md - Understanding how the code works and the breakdown
 
-census_data.csv/tune.csv - Necessary data to run the files.
+census_data.csv - Necessary data to run the files.
 
 ## How to use this Repository
 
